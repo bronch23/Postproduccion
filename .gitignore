@@ -84,3 +84,9 @@ Binaries/
 Intermediate/
 Saved/
 *.ush
+*.ini
+*.bin
+Saved/webcache_4430/Cache/*
+Saved/AutoScreenshot.png
+Intermediate/
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
