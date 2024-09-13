@@ -49,6 +49,13 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/**/Binaries/*
 
+# Ignore user-specific files
+*.log
+*.userprefs
+*.psess
+*.suo
+.vscode/
+
 # Builds
 Build/*
 
