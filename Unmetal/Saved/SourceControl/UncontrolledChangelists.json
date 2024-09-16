@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Unmetal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Unmetal/Content/Blueprint/Enemy/BP_Enemy.uasset",
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Unmetal/Content/Blueprint/Enemy/BT_Enemy.uasset",
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Unmetal/Content/Blueprint/Enemy/AIC_Enemy.uasset",
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Unmetal/Content/Blueprint/Enemy/BB_Enemy.uasset"
+			]
+		}
+	]
+}
