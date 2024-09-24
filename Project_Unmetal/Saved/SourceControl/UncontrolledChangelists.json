@@ -8,10 +8,7 @@
 				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/BT_Enemy.uasset",
 				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Task/NextWayPoint.uasset",
 				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/BP_Enemy.uasset",
-				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Suspicion.uasset",
 				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/AIC_Enemy.uasset",
-				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Decorators/Suspecting.uasset",
-				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Decorators/EnemyDetected.uasset",
 				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Decorators/PlayerDetected.uasset",
 				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/BB_Enemy.uasset",
 				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
@@ -25,7 +22,17 @@
 				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/AttackMode.uasset",
 				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
 				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/RJ/AC18BICTLFI72TH096EO5V.uasset",
-				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XX/2CULLN4DCGGVZRNWA8VVK0.uasset"
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XX/2CULLN4DCGGVZRNWA8VVK0.uasset",
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Task/AttackMode.uasset",
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Task/SuspiciousMode.uasset",
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Task/BlindAttackMode.uasset",
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Task/Patrol.uasset",
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Task/BackUpMode.uasset",
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Decorators/BuckUpCall.uasset",
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Decorators/BackUpAlert.uasset",
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Suspicion.uasset",
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Decorators/Suspecting.uasset",
+				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/Decorators/EnemyDetected.uasset"
 			]
 		}
 	]
