@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/Postproduccion/Project_Unmetal/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/GitHub/Postproduccion/Project_Unmetal/Content/FirstPerson/Blueprints/Controles.uasset",
+				"D:/GitHub/Postproduccion/Project_Unmetal/Content/FirstPerson/Blueprints/ActibableBP.uasset",
 				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/BT_Enemy.uasset",
 				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/BP_Enemy.uasset",
 				"C:/Users/Bronch/Desktop/Uni/Cuarto/Tecnologias 3/Unmetal/tecnologias3/Project_Unmetal/Content/Blueprint/Enemy/AIC_Enemy.uasset",
